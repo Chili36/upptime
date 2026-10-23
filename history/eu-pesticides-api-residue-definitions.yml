@@ -1,7 +1,7 @@
 url: https://api.datalake.sante.service.ec.europa.eu/sante/pesticides/pesticide-residues?format=json&pesticide_residue_lg=EN&api-version=v3.0
 status: up
 code: 200
-responseTime: 2598
-lastUpdated: 2026-10-22T01:04:50.953Z
+responseTime: 998
+lastUpdated: 2026-10-23T01:04:41.756Z
 startTime: 2026-10-13T08:33:04.995Z
 generator: Upptime <https://github.com/upptime/upptime>
