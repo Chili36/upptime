@@ -4,12 +4,12 @@
     "url": "https://api.datalake.sante.service.ec.europa.eu/sante/pesticides/pesticide-residues?format=json&pesticide_residue_lg=EN&api-version=v3.0",
     "icon": "https://icons.duckduckgo.com/ip3/api.datalake.sante.service.ec.europa.eu.ico",
     "slug": "eu-pesticides-api-residue-definitions",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
     "time": 1062,
     "timeDay": 1104,
     "timeWeek": 1202,
@@ -17,7 +17,8 @@
     "timeYear": 1062,
     "dailyMinutesDown": {
       "2026-10-15": 43,
-      "2026-10-14": 86
+      "2026-10-14": 86,
+      "2026-11-10": 9
     }
   },
   {
@@ -25,7 +26,7 @@
     "url": "https://api.datalake.sante.service.ec.europa.eu/sante/pesticides/active-substances?format=json&api-version=v3.0",
     "icon": "https://icons.duckduckgo.com/ip3/api.datalake.sante.service.ec.europa.eu.ico",
     "slug": "eu-pesticides-api-active-substances",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
