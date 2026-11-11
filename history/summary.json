@@ -5,20 +5,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.datalake.sante.service.ec.europa.eu.ico",
     "slug": "eu-pesticides-api-residue-definitions",
     "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
+    "uptime": "97.31%",
+    "uptimeDay": "31.52%",
+    "uptimeWeek": "90.22%",
+    "uptimeMonth": "97.31%",
+    "uptimeYear": "97.31%",
     "time": 1062,
     "timeDay": 1104,
-    "timeWeek": 1202,
+    "timeWeek": 1227,
     "timeMonth": 1062,
     "timeYear": 1062,
     "dailyMinutesDown": {
       "2026-10-15": 43,
       "2026-10-14": 86,
-      "2026-11-10": 9
+      "2026-11-11": 256,
+      "2026-11-10": 730
     }
   },
   {
@@ -27,19 +28,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.datalake.sante.service.ec.europa.eu.ico",
     "slug": "eu-pesticides-api-active-substances",
     "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
-    "time": 2753,
-    "timeDay": 1046,
-    "timeWeek": 1071,
-    "timeMonth": 2753,
-    "timeYear": 2753,
+    "uptime": "97.36%",
+    "uptimeDay": "32.17%",
+    "uptimeWeek": "90.31%",
+    "uptimeMonth": "97.36%",
+    "uptimeYear": "97.36%",
+    "time": 2693,
+    "timeDay": 935,
+    "timeWeek": 1044,
+    "timeMonth": 2693,
+    "timeYear": 2693,
     "dailyMinutesDown": {
       "2026-10-15": 43,
-      "2026-10-14": 78
+      "2026-10-14": 78,
+      "2026-11-11": 256,
+      "2026-11-10": 721
     }
   }
 ]
