@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.datalake.sante.service.ec.europa.eu.ico",
     "slug": "eu-pesticides-api-residue-definitions",
     "status": "down",
-    "uptime": "96.45%",
+    "uptime": "96.23%",
     "uptimeDay": "69.67%",
-    "uptimeWeek": "86.16%",
-    "uptimeMonth": "96.45%",
-    "uptimeYear": "96.45%",
+    "uptimeWeek": "85.19%",
+    "uptimeMonth": "96.23%",
+    "uptimeYear": "96.23%",
     "time": 1151,
     "timeDay": 3807,
     "timeWeek": 1474,
@@ -20,7 +20,7 @@
       "2026-10-14": 86,
       "2026-11-11": 655,
       "2026-11-10": 730,
-      "2026-11-12": 9
+      "2026-11-12": 108
     }
   },
   {
@@ -29,11 +29,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.datalake.sante.service.ec.europa.eu.ico",
     "slug": "eu-pesticides-api-active-substances",
     "status": "down",
-    "uptime": "96.51%",
+    "uptime": "96.29%",
     "uptimeDay": "70.32%",
-    "uptimeWeek": "86.35%",
-    "uptimeMonth": "96.51%",
-    "uptimeYear": "96.51%",
+    "uptimeWeek": "85.38%",
+    "uptimeMonth": "96.29%",
+    "uptimeYear": "96.29%",
     "time": 2653,
     "timeDay": 1373,
     "timeWeek": 1070,
@@ -43,7 +43,8 @@
       "2026-10-15": 43,
       "2026-10-14": 78,
       "2026-11-11": 655,
-      "2026-11-10": 721
+      "2026-11-10": 721,
+      "2026-11-12": 98
     }
   }
 ]
