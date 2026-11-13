@@ -1,7 +1,7 @@
 url: https://api.datalake.sante.service.ec.europa.eu/sante/pesticides/active-substances?format=json&api-version=v3.0
 status: up
 code: 200
-responseTime: 847
-lastUpdated: 2026-11-12T16:24:45.379Z
+responseTime: 1085
+lastUpdated: 2026-11-13T03:01:30.845Z
 startTime: 2026-10-13T08:33:06.220Z
 generator: Upptime <https://github.com/upptime/upptime>
